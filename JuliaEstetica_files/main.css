@@ -232,6 +232,7 @@
 
 #feature-con-wrap-right {
     position: absolute;
+    top:auto;
     right: 0;
     width: 47%;
     height: 100%;
@@ -329,23 +330,22 @@
 
 #feature-tx0-wrap {
     font-family: 'BlackC';
-    font-size: 84px;
-    text-align: center;
-    line-height: 40px;
+    font-size: 134px;
+    text-align: right;
+    line-height: 95px;
     position: relative;
     height: auto;
-    margin-bottom: 54px;
+    margin-bottom: 30px;
     color: #fff;
 }
 
 #feature-tx3-wrap {
     font-family: 'BlackC';
-    font-size: 84px;
+    font-size: 134px;
     text-align: left;
-    line-height: 60px;
+    line-height: 95px;
     position: relative;
     height: auto;
-    margin-bottom: 16px;
     color: #fff;
 }
 
