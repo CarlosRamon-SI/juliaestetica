@@ -28,7 +28,7 @@ body {
 
 @font-face {
     font-family: 'whitney';
-    src: url('./lib/font/whitney.woff') format('woff');
+    src: url('./lib/font/QuantB.TTF') format('truetype');
 }
 
 a:visited {
