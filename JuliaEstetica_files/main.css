@@ -333,6 +333,9 @@
     font-size: 134px;
     text-align: right;
     line-height: 95px;
+    font-size: 94px;
+    text-align: center;
+    line-height: 40px;
     position: relative;
     height: auto;
     margin-bottom: 30px;
@@ -342,6 +345,7 @@
 #feature-tx3-wrap {
     font-family: 'BlackC';
     font-size: 134px;
+    font-size: 94px;
     text-align: left;
     line-height: 95px;
     position: relative;
@@ -487,7 +491,7 @@
     -webkit-box-shadow: 0 0 120px 0 rgba(0,0,0,.2);
     -moz-box-shadow: 0 0 120px 0 rgba(0,0,0,.2);
     box-shadow: 0 0 120px 0 rgba(0,0,0,.2);
-    }
+}
 
 #content-ico-block {
     position: relative;
@@ -724,10 +728,9 @@
     border-radius: 6px;
     background: #4c5bd7;
 }
-
-    #featured-con-button:hover {
-        opacity: .8;
-    }
+#featured-con-button:hover {
+    opacity: .8;
+}
 
 #featured-wrp-button {
     position: relative;
